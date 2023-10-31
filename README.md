@@ -1,1 +1,3 @@
-# Add your name here:
+# Add your student number here:
+Miguel\
+Jose
